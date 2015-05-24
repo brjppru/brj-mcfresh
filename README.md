@@ -1,6 +1,7 @@
 # brj-mcfresh
-brj@mcfresh - a Midnight Commander Skin
-Didn't like what was on offer in base package, 
+brj@mcfresh - a Midnight Commander Skin.
+
+Didn't like what was on offer in base package,
 so wrote one myself and change redactor skin.
 
 ## based ##
