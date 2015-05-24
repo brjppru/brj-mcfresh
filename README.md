@@ -1,11 +1,9 @@
 # brj-mcfresh
-
 brj@mcfresh - a Midnight Commander Skin
-
-Didn't like what was on offer in base package, so wrote one myself and change redactor skin.
+Didn't like what was on offer in base package, 
+so wrote one myself and change redactor skin.
 
 ## based ##
-
 based on http://phobi4n.deviantart.com/art/Fresh-a-Midnight-Commander-Skin-510329263
 
 ## Screenshot
