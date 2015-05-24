@@ -9,3 +9,6 @@ http://phobi4n.deviantart.com/art/Fresh-a-Midnight-Commander-Skin-510329263
 
 Didn't like what was on offer so wrote one myself and change redactor skin
 
+# Screenshot
+
+![Midnight Commander brj fresh](brj-mc-fresh.png)
